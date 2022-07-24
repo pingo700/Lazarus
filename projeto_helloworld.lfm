@@ -1,0 +1,51 @@
+object Form1: TForm1
+  Left = 670
+  Height = 240
+  Top = 224
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.2.0'
+  object Edit1: TEdit
+    Left = 32
+    Height = 23
+    Top = 96
+    Width = 256
+    ReadOnly = True
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 32
+    Height = 23
+    Top = 40
+    Width = 256
+    ParentShowHint = False
+    TabOrder = 1
+  end
+  object Executa: TButton
+    Left = 120
+    Height = 25
+    Top = 144
+    Width = 75
+    Caption = 'Executa'
+    OnClick = ExecutaClick
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 32
+    Height = 15
+    Top = 22
+    Width = 154
+    Caption = 'Escreva  sua mensagem aqui:'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 32
+    Height = 15
+    Top = 72
+    Width = 84
+    Caption = 'Sua mensgaem:'
+    ParentColor = False
+  end
+end
