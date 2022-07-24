@@ -1,5 +1,5 @@
 # Lazarus
-<img src="https://user-images.githubusercontent.com/66562175/180654360-efef2276-cf31-4be7-b0d3-1818ff87d9c7.png" alt="My cool logo"/>
+<img src="https://user-images.githubusercontent.com/66562175/180654411-dca60077-f412-4e19-86ad-84f3261bd19b.png" alt="My cool logo"/>
 <div align="center">
    <h1>Bem-vindo ao Lazarus</h1>
 </div>
