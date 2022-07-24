@@ -3,5 +3,5 @@
    <h1>Bem-vindo ao Lazarus</h1>
 </div>
 <div align="center">
-   ![image](https://user-images.githubusercontent.com/66562175/180653695-f50a3021-2670-4f5b-9836-78e61e3ba2a8.png)
+   ![7a6e6241-0e8c-4b96-9029-03e15e44324d](https://user-images.githubusercontent.com/66562175/180653775-114141e0-4153-4855-aba1-7c51700f6ca0.jpg)
 </div>
